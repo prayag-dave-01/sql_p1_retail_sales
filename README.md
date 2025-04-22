@@ -1,5 +1,7 @@
 # Retail Sales Analysis SQL Project
 
+![Retail Sales Logo](https://github.com/prayag-dave-01/sql_p1_retail_sales/blob/main/OIP.jpeg?raw=true)
+
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
